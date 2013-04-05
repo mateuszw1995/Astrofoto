@@ -7,10 +7,7 @@
 #include <Shobjidl.h>
 #include <stdlib.h>
 #include "img/image.h"
-int some_cool_function(int foo) {
-	int bar = 2;
-	return bar*23978;
-}
+
 HINSTANCE* hInst;
 MSG msgs;
 HWND hButton, hOkno, hEdit, hCombo, hProgress;
