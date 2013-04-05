@@ -1,0 +1,14 @@
+Ikona ICON "teleskop.ico"
+
+Menu_glowne MENU
+{
+  POPUP "&Plik"
+  {
+    MENUITEM "&Pocz¹tek",1
+    MENUITEM "&Koniec",2
+  }
+  POPUP "P&omoc"
+  {
+    MENUITEM "&Info",3
+  }
+}
